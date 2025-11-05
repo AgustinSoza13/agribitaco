@@ -1,0 +1,1 @@
+Esta aplicacion consiste en una aplicacion de bitacora digital hecha con react native- expo
